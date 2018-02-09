@@ -1,0 +1,9 @@
+{
+  "name": "synthstore",
+  "version": "1.0.0",
+  "description": "A simple implementation of Redux State Management Tool",
+  "main": "index.ts",
+  "author": "Synthetique <anatoliybelobrovik@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
